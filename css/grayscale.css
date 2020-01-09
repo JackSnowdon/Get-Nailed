@@ -92,7 +92,7 @@
     height: 75vh;
     min-height: 35rem;
     padding: 15rem 0;
-    background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #323232 100%), url("../img/ellie-logo.jpeg");
+    background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(138, 138, 138, 0.7) 75%, #2e2e2e 100%), url("../img/ellie-logo.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -242,6 +242,7 @@ footer {
 
 .img-fluid {
     height: 320px;
+    width: 320px;
     border-radius: 3px;
     opacity: 0.7;
 }
